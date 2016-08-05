@@ -1,0 +1,25 @@
+_repo: The-Siksha-Patri-of-the-Svami-Narayana-Sect_7261
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Monier-Williams, Monier, Sir
+    alias: Williams, Monier
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '2399'
+    url: http://www.gutenberg.org/2009/agents/2399
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swami-Narayanis'
+- !lcc 'DS'
+- GITenberg
+title: The Siksha-Patri of the Svami-Narayana Sect
+url: http://www.gutenberg.org/ebooks/7261
