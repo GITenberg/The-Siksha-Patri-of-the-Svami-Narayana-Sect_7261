@@ -1,5 +1,5 @@
 _repo: The-Siksha-Patri-of-the-Svami-Narayana-Sect_7261
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Monier-Williams, Monier, Sir
@@ -8,7 +8,12 @@ contributor:
     deathdate: 1899
     gutenberg_agent_id: '2399'
     url: http://www.gutenberg.org/2009/agents/2399
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7261#The-Siksha-Patri-of-the-Svami-Narayana-Sect
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
